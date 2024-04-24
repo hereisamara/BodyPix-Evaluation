@@ -7,6 +7,13 @@ BodyPix Evaluation is a repository designed to evaluate the performance of the B
 *Evaluation Scripts*: Access ready-to-use Python scripts for evaluating the BodyPix model's performance on your dataset, including metrics such as IoU (Intersection over Union), Dice Coefficient, Precision, Recall, and Accuracy.  
 *Batch Processing*: Utilize batch processing capabilities to efficiently evaluate large datasets, with progress tracking and results per batch.  
 
+### Results 
+#### BodyPix  
+| Dataset  | Mean IoU | Mean Dice | Mean Precision | Mean Recall | Mean Accuracy |
+|----------|----------|-----------|----------------|-------------|---------------|
+| OCHuman  | 0.5438   | 0.6724    | 0.6639         | 0.7572      | 0.8540        |
+
+
 ### Acknowledgements
 [TensorFlow.js](https://github.com/de-code/python-tf-bodypix)
 [OCHuman API](https://github.com/liruilong940607/OCHumanApi)
