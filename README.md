@@ -9,9 +9,9 @@ BodyPix Evaluation is a repository designed to evaluate the performance of the B
 
 ### Results 
 #### BodyPix  
-| Dataset  | Mean IoU | Mean Dice | Mean Precision | Mean Recall | Mean Accuracy |
-|----------|----------|-----------|----------------|-------------|---------------|
-| OCHuman  | 0.5438   | 0.6724    | 0.6639         | 0.7572      | 0.8540        |
+| Dataset  | Mean IoU | Mean Dice | Mean Precision | Mean Recall | Mean Accuracy | mAP  |
+|----------|----------|-----------|----------------|-------------|---------------| ---------------|
+| OCHuman  | 0.5438   | 0.6724    | 0.6639         | 0.7572      | 0.8540        | 0.7369         |
 
 
 ### Acknowledgements
